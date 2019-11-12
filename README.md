@@ -1,0 +1,2 @@
+# PlayingCard
+Присутствует SwiftLint (отключен)
