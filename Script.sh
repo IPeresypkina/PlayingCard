@@ -1,0 +1,13 @@
+#!/bin/sh
+
+#  Script.sh
+#  PlayingCard
+#
+#  Created by Ирина Пересыпкина on 04/10/2019.
+#  Copyright © 2019 Ирина Пересыпкина. All rights reserved.
+#!/bin/bash
+# Project Name:  $XcodeProject
+# Project Dir:   $XcodeProjectPath
+# Workspace Dir: $XcodeWorkspacePath
+
+#open -a Terminal "$(dirname $PlayingCard)"
